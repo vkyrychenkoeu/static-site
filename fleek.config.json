@@ -1,0 +1,9 @@
+{
+    "sites": [
+      {
+        "slug": "plain-dazzling-window",
+        "distDir": "",
+        "buildCommand": ""
+      }
+    ]
+  }
